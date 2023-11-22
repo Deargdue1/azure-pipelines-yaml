@@ -6,8 +6,8 @@
       vmImage: 'Ubuntu-latest'
     # creates an environment if it doesn't exist
     environment: 
-      name: 'smarthotel-dev'
-      resourceName: odoodev4
+      name: 'Odoo_2_Dev'
+      resourceName: Odoo 2 Dev
       resourceType: virtualMachine
     strategy:
       runOnce:
